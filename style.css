@@ -1,0 +1,234 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* navbar */
+
+.container-fl{
+  background-color:#002866;
+  font-weight: bold;
+}
+.nav-logo {
+  width: 130px;
+  height: 60px;
+}
+
+.brand li a {
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+.ser-in {
+  margin-right: 10px;
+}
+
+
+.log {
+  margin-left: 10px;
+  font-weight: bold;
+  color: #fff;
+}
+
+
+
+/* secction-1 */
+
+.se-1 {
+  margin-top: -9px;
+}
+
+.cars-content {
+  font-size: 25px;
+  color: orange;
+  font-weight: 900;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  opacity: .8;
+}
+
+.cars-content button {
+  font-size: 18px;
+  color:#fff;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.cars-content p {
+    text-transform: capitalize;
+  font-size: 18px;
+  color: black;
+}
+
+
+/* secction-3 */
+
+.secction-3 {
+  background-color: #403c1224;
+  margin: auto;
+  width: 98%;
+  text-transform: capitalize;
+
+  text-align: center;
+}
+
+.secction-3 h1 {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: orange;
+  opacity: .7;
+  letter-spacing: 1px;
+}
+
+.secction-3 p {
+  font-weight: bold;
+}
+
+.secction-3 button {
+  font-weight: bold;
+  display: block;
+  padding: 5px 17px;
+  margin-left: 50%;
+  transform: translate(-50%,-50%);
+  background-color: #002866;
+  border: 0;
+  outline: 0;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.secction-4 h2 {
+  text-align: center;
+  text-transform: uppercase;;
+  letter-spacing: 1px;
+  font-weight: 900;
+  color: #fff;
+}
+
+
+/* secction-5 */
+
+.secction-5 {
+  background-image: url(images/pexels-photo-1183434.jpeg);
+  background-attachment: fixed;
+  height: 50vh;
+  background-position: top;
+  background-size: cover;
+  width: 98%;
+  margin: auto;
+  text-align: center;
+    text-transform: capitalize;
+}
+
+.secction-5 h2 {
+  transform: translateY(20vh);
+  font-weight: 900;
+  color: #fff;
+  letter-spacing: 1px;
+  font-size: 70px;
+  text-shadow: 1px 1px 1px black;
+  font-family: sans-serif;
+
+}
+
+.secction-5 button {
+  font-size: 20px;
+  border-radius: 5px;
+  border: 0;
+  outline: 0;
+  padding: 10px 30px;
+  text-transform: capitalize;
+  color: #fff;
+  font-weight: 600;
+  transform: translateY(22vh);
+}
+
+
+/* secction-6 */
+
+.secction-6 {
+  margin-top: 5px;
+}
+
+.div-felex {
+  text-align: center;
+}
+
+.felx-2 {
+  text-align: center;
+  margin-top: 5px;
+}
+
+
+/* secction-7 */
+
+
+.secction-7 {
+  margin-top: 15px;
+  text-align: center;
+  text-transform: capitalize;
+
+}
+
+/* secction-8 */
+
+
+.secction-8 h2 {
+  text-align: center;
+  font-weight: 900;
+  font-size:40px;
+  letter-spacing: 1px;
+  font-family: serif;
+  text-transform: uppercase;
+
+}
+
+.secction-8 h3 {
+  text-transform: capitalize;
+  font-family: sans-serif;
+color: #fff;
+font-weight: bold;
+}
+
+.secction-8 i {
+  display: block;
+  font-size: 25px;
+  color: blue;
+}
+
+.secction-8 a {
+  text-transform: capitalize;
+  font-weight: bold;
+  color: black;
+  text-decoration: underline;
+}
+
+
+/* footer */
+
+
+footer {
+  background-color:#002866;
+
+}
+
+footer .foot {
+  margin-top: 20px;
+  color: #fff;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 20px;
+}
+
+footer .foot i {
+  color: orange;
+}
+
+.adrees {
+  color: orange;
+text-align: center;
+text-transform: capitalize;
+margin-top: 5px;
+}
